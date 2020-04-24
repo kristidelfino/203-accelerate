@@ -45,3 +45,75 @@ Text Domain:  accelerate-theme-child
 	color: #45ac9d;
 	text-transform: uppercase;
 }
+
+/* Case Studies */
+
+aside.case-study-sidebar {
+	float: left;
+	width: 300px;
+}
+
+div.case-study-images {
+	float: left;
+	width: 600px;
+}
+
+/* Featured Work on Front Page */
+
+.featured-work h4 {
+	text-align: center;
+	text-transform: uppercase;
+}
+ul.homepage-featured-work {
+	list-style-type: none;
+}
+
+li.individual-featured-work {
+	float: left;
+	text-align: center;
+	padding-left: 10px;
+	padding-bottom: 0;
+}
+
+.featured-work h3 {
+	margin-top: 0;
+}
+
+/* Case Studies Archive */
+
+.view-project-link {
+	font-family: 'Montserrat';
+	font-weight: 700;
+	color: #45ac9d;
+	text-transform: uppercase;
+}
+
+h2 {
+	font: 400 1.25em 'Montserrat', 'Open Sans', Arial, sans-serif;
+    margin: 2em 0 .5em;
+	}
+
+h5.archive-services {
+	font-size: 12px;
+	font-weight: lighter;
+	text-transform: capitalize;
+	margin-top: 0;
+	color: #a6a6a6;
+}
+
+.archive-main {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin: 0 auto;
+}
+
+.archive-main-info {
+	flex-basis: 30%;
+}
+
+
+.archive-images {
+	flex-basis: 60%;
+	padding: 0 20px 50px 0;
+}
