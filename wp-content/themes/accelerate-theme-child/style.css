@@ -117,3 +117,34 @@ h5.archive-services {
 	flex-basis: 60%;
 	padding: 0 20px 50px 0;
 }
+
+/* footer icons */
+footer ul {
+	list-style-type: none;
+}
+
+footer li {
+	float: left;
+
+}
+footer i {
+	border-radius: 50%;
+	padding: 5px;
+	color: black;
+	font-size: 1.25em;
+}
+
+
+/* Text meant only for screen readers. */
+.screen-reader-text {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute !important;
+  width: 1px;
+  word-wrap: normal !important;
+}

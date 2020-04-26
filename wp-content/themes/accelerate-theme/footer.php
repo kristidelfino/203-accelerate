@@ -30,3 +30,5 @@
 	<?php wp_footer(); ?>
 </body>
 </html>
+
+<!-- , 'menu_class' => 'screen-reader-text' -->
